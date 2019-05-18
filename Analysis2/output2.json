@@ -1,0 +1,20 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 9,
+            "content": "best"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "best",
+      "salience": 1.0,
+      "type": "OTHER"
+    }
+  ],
+  "language": "en"
+}

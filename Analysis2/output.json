@@ -1,0 +1,63 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 0,
+            "content": "Michelangelo Caravaggio"
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "beginOffset": 33,
+            "content": "painter"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/020bg",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Caravaggio"
+      },
+      "name": "Michelangelo Caravaggio",
+      "salience": 0.82904786,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 25,
+            "content": "Italian"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {
+        "mid": "/m/03rjj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Italy"
+      },
+      "name": "Italian",
+      "salience": 0.13981608,
+      "type": "LOCATION"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 56,
+            "content": "The Calling of Saint Matt"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "The Calling of Saint Matt",
+      "salience": 0.031136045,
+      "type": "EVENT"
+    }
+  ],
+  "language": "en"
+}
