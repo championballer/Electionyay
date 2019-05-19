@@ -1,5 +1,4 @@
-# ElectionVisualiser
-An app which visualises the sentiment in General Elections 2019
+# ElectionYay
 
 <p align="center">
 <img src ="https://github.com/championballer/Electionyay/raw/master/Analysis2/MediaHouses.png">
