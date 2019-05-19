@@ -10,5 +10,5 @@ An app which visualises the sentiment in General Elections 2019
 <p align="center">
 <img src ="https://github.com/championballer/Electionyay/raw/master/Analysis2/IncreaseInLokSabha.png">
 <br>
-<b> Media house attention <b>
+<b> Increasing attention towards General Elections 2019 <b>
 </p>
