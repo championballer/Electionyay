@@ -1,4 +1,8 @@
 # ElectionVisualiser
 An app which visualises the sentiment in General Elections 2019
 
-![Histogram](Analysis2/MediaHouses.png)
+<p align="center">
+<img src ="https://github.com/championballer/Electionyay/raw/master/Analysis/MediaHouses.png">
+<br>
+<b> Media house attention <b>
+</p>
